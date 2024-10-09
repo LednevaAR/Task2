@@ -6,4 +6,4 @@
 
 Код, соответствующий второму пункту, находится в Assests в ChangeObjectBehindPlayer.cs, там же комментарии объясняют, что в нем происходит.
 
-Видеодемонстрация также приложена (Task2 - SampleScene...).
+Видеодемонстрация: https://drive.google.com/file/d/1qsFQc3dFMMXGHKdrJqC4jaXRYkBiUsNs/view?usp=drive_link.
